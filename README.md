@@ -64,6 +64,15 @@ Then open `http://localhost:5173/` in your browser.
 ## Screenshots (examples)
 
 1. Wallet selection and connection UI.
+<img width="1012" height="396" alt="image" src="https://github.com/user-attachments/assets/451d624b-1c6a-4610-8971-dfc3dda1015f" />
+
 2. Connected address + totals.
+<img width="1011" height="731" alt="image" src="https://github.com/user-attachments/assets/4fa2f096-4d59-4667-8ec4-01a99a2f5757" />
+
 3. Donation with status + transaction hash.
+<img width="1012" height="437" alt="image" src="https://github.com/user-attachments/assets/db97bbaf-65e3-4c86-8587-37b40a536203" />
+
 4. Error log with at least one error message.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ee89edf-65e5-408d-98bb-3039cb4d0f45" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5769ee0f-e8ee-4d39-a734-96635610c77f" />
+
